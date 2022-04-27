@@ -1,6 +1,6 @@
-- 👋 Hello world! @MarieCastetsBioinfo is an account for reporting our team's bioinformatic activity in the Cancer Research Centre of Lyon (France).
+- 👋 Hello world! @MarieCastetsBioinfo is an account for reporting our team's bioinformatic activity at the Cancer Research Centre of Lyon (France).
 - 👀 Our team is interested in Pediatric Cancers & Cell Death.
-- 🌱 We are currently developing pipelines for RNA-seq, ChIP-seq & scRNA-seq data analysis.
+- 🌱 We are currently developing pipelines for RNA-seq, ChIP-seq, scRNA-seq and methylome data analysis.
 - 📫 Please, contact our team via the following mail address: c3bioinfo@gmail.com
 
 Bioinformaticly yours!
